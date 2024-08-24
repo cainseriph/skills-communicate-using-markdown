@@ -9,3 +9,8 @@ added and example of a header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [ ] Add Header
+- [ ] Add Image
+- [ ] Add Code Block
